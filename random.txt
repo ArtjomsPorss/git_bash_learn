@@ -1,0 +1,3 @@
+random text in a textfile
+random text to be removed
+amend commit text

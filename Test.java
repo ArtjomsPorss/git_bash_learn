@@ -6,5 +6,6 @@ public class Test{
     /* comment on the branch other */
 
     /* git commands revision */
+    //merge main comment
   }
 }
